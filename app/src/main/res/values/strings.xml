@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">TrafficLight</string>
+
+    <string name="stop_button_text">Stop</string>
+    <string name="wait_button_text">Wait</string>
+    <string name="go_button_text">Go</string>
+
 </resources>
